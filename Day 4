@@ -1,0 +1,18 @@
+https://www.hackerrank.com/challenges/cpp-input-and-output
+//Read 3 numbers from stdin and print their sum to stdout.
+//Input Format
+//One line that contains 3 space-separated integers: a,b and c .
+//Constraints
+1<1a,b,c<1000
+//Output Format
+//Print the sum of the three numbers on a single line.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b, c;
+    cin >> a >> b >> c;     // Read three integers
+    cout << a + b + c;      // Print their sum
+    return 0;
+}
