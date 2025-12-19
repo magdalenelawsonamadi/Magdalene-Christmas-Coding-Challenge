@@ -1,3 +1,1 @@
-# Magdalene Christmas Coding Challenge 
-My Christmas Coding Repository.
-Ibby Magdalene C++ & SQL.
+This project was developed within the framework of the Christmas Coding Challenge 2025, organised by Women Coding Community.
